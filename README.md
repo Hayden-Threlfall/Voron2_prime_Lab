@@ -27,5 +27,4 @@ If you have any issues with the interfaces look up the documentation for Klipper
 Tuning information: 
 https://ellis3dp.com/Print-Tuning-Guide/, or official Voron documentation
 
-Temporary github: https://github.com/Hayden-Threlfall/Voron2_prime_Lab
 If you need any help ask the discord.
